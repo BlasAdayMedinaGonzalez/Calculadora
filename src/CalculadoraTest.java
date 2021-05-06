@@ -79,4 +79,5 @@ public class CalculadoraTest {
         Calculadora c2 = new Calculadora(6);
         assertNotEquals(c1, c2);
        }
+       
 }
