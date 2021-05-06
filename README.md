@@ -1,14 +1,6 @@
-## Getting Started
+# Nombre y Apellidos
+Aday Medina González
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Breve descripción
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Creamos los métodos en la Clase Calculadora, para su posterior comprobación con las pruebas unitarias en la clase CalculadoraTest, con @Test y los métodos, se instancia el objeto con los valores para luego comprobar el resultado con la funcion assert.
